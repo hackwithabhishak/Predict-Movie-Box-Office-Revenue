@@ -13,3 +13,6 @@ and clean all the column that is required for my project and clean all the inval
 
 I use pandas,matplotlib python library for the data visualisation and use linear regression machine learning algorithm for the prediction 
 
+![image](https://user-images.githubusercontent.com/50981076/67155701-ba890600-f331-11e9-8ff9-a10dbd51ad3e.png)
+
+# Apply linear regression
